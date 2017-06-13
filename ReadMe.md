@@ -1,5 +1,7 @@
 # TwsPluginFramework插件框架
 
+http://blog.csdn.net/Tencent_Bugly/article/details/70577599
+
 TwsPluginFramework(下面简称TPF框架)能很好的解决大中项目团队的队协作问题，实现模块解耦、并行开发、模块动态更新，适用于Android 4.3以上系统版本的应用开发。
 
 
